@@ -1,0 +1,91 @@
+.container-fluid{
+	text-align: center;
+	display: table-footer-group;
+}
+
+.row{
+	flex-wrap: wrap;
+}
+
+
+#CookieStore h1{
+	font-size: 72px;
+}
+
+#CookieStore p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	margin-left: 21%;
+	margin-right: 29%;
+}
+
+#graybox{
+	background-color: rgb(0, 0, 7,.3);
+	position: relative;
+	margin: 0 20%;
+}
+
+
+#CookieStore {
+	background-image: url("img/coffee_and_cookies.jpeg");
+	padding:  15% 0%;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	color: #FFF;
+}
+
+.CookieStore{
+	background-color: rgba(159, 164, 173,.7);
+	background-size: 30% 40%;
+}
+
+
+#TheCookies{
+	color: #000;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+#CookiePics {
+	padding-bottom: 5%;
+}
+
+
+#AboutUs {
+	font-size: 48px;
+	position: relative;
+	background-color: #798084;
+	padding: 4% 4%;
+}
+
+#AboutUsP {
+	margin-left: 20%;
+	text-align: justify;
+	font-size: 28px;
+}
+
+#AboutUs h2 {
+	font-size: 40px;
+}
+
+#AboutUs img{
+	position: relative;
+	float: left;
+}
+
+#ContactUs {
+	background-color: #0779b7;
+	padding: 3% 0%;
+	color: #FFF;
+}
+
+
+img {
+	border-radius: 50%;
+	position: relative;
+}
+
+
+
+
+
